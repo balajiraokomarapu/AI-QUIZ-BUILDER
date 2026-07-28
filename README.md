@@ -58,7 +58,3 @@ AI-Quiz-Builder/
 4.Export quiz as PDF
 5.Support DOCX files
 
-
-📄 License
-
-This project is licensed under the MIT License.
